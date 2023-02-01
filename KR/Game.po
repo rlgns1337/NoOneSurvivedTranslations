@@ -123,7 +123,7 @@ msgstr "2020/08/02"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock.Text
 msgctxt ",054871D843E0E2B8184EAA9FC13D17B1"
 msgid "建造一个自己的工作台，并在工作台中生产木板"
-msgstr "자신의 작업대를 만들고 작업대에서 판자를 생산하십시오."
+msgstr "작업대를 만들어, 판자를 생산하십시오."
 
 #. Key:	067D9CDB4FE9E1F850C2E69B23C0B4A7
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JXJGT.WBP_JXJGT_C:WidgetTree.Num.Text
@@ -228,7 +228,7 @@ msgstr "401일차"
 #: /Game/HDCKBuildingSystem/MeshBP/Furniture_ZJ.Furniture_ZJ_C:ExecuteUbergraph_Furniture_ZJ [Script Bytecode]
 msgctxt ",0A1B65064219DCA393D97DADDE5CB235"
 msgid "取出饲料"
-msgstr "재료를 꺼내기"
+msgstr "재료 꺼내기"
 
 #. Key:	0A8AEE964987DE886D432BA25A0AD042
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(17 - Value).DisplayNameMap
@@ -270,7 +270,7 @@ msgstr "동적 해상도"
 #: /Game/Blueprint/UMG/TimeUI/WBP_Ing.WBP_Ing_C:WidgetTree.TextBlock_1.Text
 msgctxt ",0BA9AD014ECF42063786BC8234484D20"
 msgid "搜索中..."
-msgstr "수색중..."
+msgstr "색 중..."
 
 #. Key:	0BDFF3E44ADF1D4E97787E869B4DF710
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.FireTIme.Text
@@ -11078,7 +11078,7 @@ msgstr "게임 종료"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,QX"
 msgid "枪械"
-msgstr "총기 숙련도"
+msgstr "총기"
 
 #. Key:	QXBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11092,7 +11092,7 @@ msgstr "수리"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,QXdetail"
 msgid "减小枪械后坐力，影响精确瞄准时手部晃动"
-msgstr "총기의 반동을 줄이고 정밀조준시 손떨림에 영향을줍니다"
+msgstr "총기의 반동을 줄이고, 정밀조준 시 손떨림에 영향을 줍니다."
 
 #. Key:	QXHD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11113,7 +11113,7 @@ msgstr "총기수입도구 부족"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Random"
 msgid "随机"
-msgstr "무작위"
+msgstr "랜덤"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11162,7 +11162,7 @@ msgstr "연료가 너무 부족합니다!."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SAVE"
 msgid "你可以建造一个床加快时间流逝\r\n\r\n游戏全程自动存档"
-msgstr "침대를 만들어 잠을잘경우 시간을 빠르게 흘러가게할수있습니다."
+msgstr "침대를 만들어 잠을 자면 시간이 흐릅니다.\r\n\r\n플레이 한 부분까지 자동 저장됩니다."
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11183,7 +11183,7 @@ msgstr "신선도:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SaveGame"
 msgid "保存游戏"
-msgstr "게임을 저장"
+msgstr "게임 저장"
 
 #. Key:	SBX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11204,35 +11204,35 @@ msgstr "마우스 Y 반전"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,SCBD"
 msgid "生存手册"
-msgstr "서바이벌 매뉴얼"
+msgstr "생존 매뉴얼"
 
 #. Key:	SCJG
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SCJG"
 msgid "尸潮进攻"
-msgstr "좀비들의 습격"
+msgstr "좀비 웨이브"
 
 #. Key:	SCJGR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SCJGR"
 msgid "尸潮进攻日，无法入睡！"
-msgstr "좀비들의 습격 당일, 잠이 오지 않는다!"
+msgstr "좀비 웨이브에 대한 두려움으로 잠을 잘 수가 없습니다!"
 
 #. Key:	scjgzq
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,scjgzq"
 msgid "尸潮进攻周期"
-msgstr "좀비들의 습격 주기"
+msgstr "좀비 웨이브 주기"
 
 #. Key:	ScreenSet
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ScreenSet"
 msgid "画面设置"
-msgstr "그래픽 설정"
+msgstr "화면 설정"
 
 #. Key:	SD
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11246,7 +11246,7 @@ msgstr "속도"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SEDIAO"
 msgid "色调"
-msgstr "색깔"
+msgstr "톤"
 
 #. Key:	SetTipMessage
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11281,7 +11281,7 @@ msgstr "삭제"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ShowPlayerID"
 msgid "显示玩家ID"
-msgstr "플레이어 닉네임 표시"
+msgstr "플레이어 ID 표시"
 
 #. Key:	Size
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11323,7 +11323,7 @@ msgstr "사운드 설정"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Split"
 msgid "拆分"
-msgstr "나누다"
+msgstr "나누"
 
 #. Key:	spring
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11344,28 +11344,28 @@ msgstr "상인"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS001"
 msgid "我想和你学习"
-msgstr "가르침을 받고싶습니다."
+msgstr "배우고 싶습니다."
 
 #. Key:	SS02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS02"
 msgid "我不想学了"
-msgstr "가르침을 받고싶지않다."
+msgstr "배우고 싶지 않습니다."
 
 #. Key:	SS04
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS04"
 msgid "级"
-msgstr "가르침"
+msgstr "학습"
 
 #. Key:	SS05
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS05"
 msgid "我想学点其他的"
-msgstr "다른 것을 배우고싶습니다."
+msgstr "다른 것을 배우고 싶습니다."
 
 #. Key:	SS06
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11379,56 +11379,56 @@ msgstr "당신을 도울 수 있는 일이 있습니까?"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS07"
 msgid "Hi,这个太难了从简单的来！"
-msgstr "너무어렵습니다. 쉬운거부터!"
+msgstr "너무 어려우니, 쉬운 것부터 해봅시다."
 
 #. Key:	SS08
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS08"
 msgid "不错，你已经掌握了。"
-msgstr "예, 당신은 이미 알고 있습니다."
+msgstr "이미 배웠습니다."
 
 #. Key:	SS09
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS09"
 msgid "我并不想教你这个。"
-msgstr "저는 당신에게 이것을 가르치고 싶지 않습니다."
+msgstr "당신에게 이걸 가르치고 싶지가 않습니다."
 
 #. Key:	SS10
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS10"
 msgid "不可能！！！"
-msgstr "안됩니다! ! !"
+msgstr "불가능합니다!"
 
 #. Key:	SS11
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS11"
 msgid "拜拜"
-msgstr "잘가"
+msgstr "안녕히 가세요."
 
 #. Key:	SS12
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS12"
 msgid "我想和你学习技能"
-msgstr "가르침을 받고싶습니다."
+msgstr "당신의 가르침을 받고 싶습니다."
 
 #. Key:	SS13
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS13"
 msgid "我这里有些好东西送给你"
-msgstr "당신을 위해 여기에 몇 가지 좋은 물건들이 있습니다"
+msgstr "당신에게 필요한 물건들이 있습니다."
 
 #. Key:	SS14
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS14"
 msgid "我想和你做笔交易"
-msgstr "거래하고 싶습니다"
+msgstr "당신과 거래하고 싶습니다."
 
 #. Key:	SSJSSL01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11442,14 +11442,14 @@ msgstr "죽인 좀비 수:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND01"
 msgid "弱"
-msgstr "약하다"
+msgstr "약한"
 
 #. Key:	SSND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSND02"
 msgid "一般"
-msgstr "일반적으로"
+msgstr "일반적인"
 
 #. Key:	SSND03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11477,7 +11477,7 @@ msgstr "공부"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SSSL"
 msgid "丧尸数量"
-msgstr "좀비의 수"
+msgstr "좀비 수"
 
 #. Key:	ST
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11505,42 +11505,42 @@ msgstr "        좀비 바이러스가 발생하여 당신은 3년 동안 피난
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartDl"
 msgid "开始发电"
-msgstr "전기를 생산하기"
+msgstr "전기 생산 시작하기"
 
 #. Key:	StartWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StartWater"
 msgid "开始抽水"
-msgstr "펌핑을 시작"
+msgstr "펌핑하기"
 
 #. Key:	StopDL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopDL"
 msgid "停止发电"
-msgstr "전기 생산을 중지"
+msgstr "전기 생산 멈추기"
 
 #. Key:	StopWater
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StopWater"
 msgid "停止抽水"
-msgstr "펌핑을 중지"
+msgstr "펌핑 멈추기"
 
 #. Key:	StudyEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,StudyEnd"
 msgid "已学习"
-msgstr "학습됨"
+msgstr "학습함"
 
 #. Key:	Successful
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Successful"
 msgid "设置成功"
-msgstr "성공적으로 설정"
+msgstr "설정 완료"
 
 #. Key:	summer
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11575,7 +11575,7 @@ msgstr "점프"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Take"
 msgid "取出"
-msgstr "꺼내다"
+msgstr "꺼내기"
 
 #. Key:	Talk
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11596,7 +11596,7 @@ msgstr "머리 방어"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TC"
 msgid "退出"
-msgstr "그만두기"
+msgstr "나가기"
 
 #. Key:	TD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11617,7 +11617,7 @@ msgstr "머리카락"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,thirsty"
 msgid "口渴"
-msgstr "목마름"
+msgstr "갈증"
 
 #. Key:	TipFks
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11631,7 +11631,7 @@ msgstr "냉각 정체가 없음"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TipName"
 msgid "请输入一个名字！"
-msgstr "별명을 입력하세요!"
+msgstr "이름을 입력하세요."
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11645,49 +11645,49 @@ msgstr "광석에서 제련하거나 아이템을 분해하여 얻을 수 있으
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TLDetail"
 msgid "体力\r\n每减少30点体力，伤害降低25%（不影响枪械）"
-msgstr "체력\r\nHP 30포인트마다 받는데미지 25% 감소(적과 아군의 화기에는 영향 없음)"
+msgstr "체력\r\nHP 30포인트마다 받는 데미지 25% 감소(적과 아군의 화기에는 영향 없음)"
 
 #. Key:	toLen
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,toLen"
 msgid "字符太长了！"
-msgstr "문자가 너무 깁니다!"
+msgstr "글자 수가 너무 긺"
 
 #. Key:	TPSCSL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TPSCSL"
 msgid "尸潮生成数量"
-msgstr "표현되는 좀비수"
+msgstr "스폰되는 좀비수"
 
 #. Key:	TQEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TQEnd"
 msgid "关闭"
-msgstr "끄기"
+msgstr "나가기"
 
 #. Key:	TQStart
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TQStart"
 msgid "开启"
-msgstr "켜다"
+msgstr "시작하기"
 
 #. Key:	TTZL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,TTZL"
 msgid "贴图质量"
-msgstr "질감 품질"
+msgstr "텍스쳐 품질"
 
 #. Key:	Type
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Type"
 msgid "类别："
-msgstr "범주:"
+msgstr "카테고리:"
 
 #. Key:	TZ
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -11701,35 +11701,35 @@ msgstr "근육"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZBDF"
 msgid "易感病毒"
-msgstr "감수성 바이러스"
+msgstr "바이러스에 민감"
 
 #. Key:	TZBDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZBDZ"
 msgid "病毒杀手"
-msgstr "바이러스 킬러"
+msgstr "바이러스에 저항"
 
 #. Key:	TZdetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZdetail"
 msgid "影响生命，耐力上限"
-msgstr "생명력, 최대 체력에 영향을 미칩니다."
+msgstr "생명력, 최대 체력에 영향을 ."
 
 #. Key:	TZFYF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYF"
 msgid "细皮嫩肉"
-msgstr "방어실패"
+msgstr "보드라운 피부"
 
 #. Key:	TZFYZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFYZ"
 msgid "皮糙肉厚"
-msgstr "두꺼운 피부"
+msgstr "강철 피부"
 
 #. Key:	TZFZF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11743,7 +11743,7 @@ msgstr "무거움"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZFZZ"
 msgid "负重前行"
-msgstr "더많은 무게한도"
+msgstr "더 많은 무게 한도"
 
 #. Key:	TZKCF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11764,14 +11764,14 @@ msgstr "협상 전문가"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKF"
 msgid "容易口渴"
-msgstr "쉽게 목이 마른다"
+msgstr "목 마른 자"
 
 #. Key:	TZKKZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZKKZ"
 msgid "不易口渴"
-msgstr "목이 잘 마르지않는다"
+msgstr "목 마른게 뭐죠"
 
 #. Key:	TZKSQ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11785,28 +11785,28 @@ msgstr "락 픽 위치 조정"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLGF"
 msgid "悲观"
-msgstr "비관적인"
+msgstr "비관론자"
 
 #. Key:	TZLGZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLGZ"
 msgid "乐观"
-msgstr "낙천주의"
+msgstr "낙관론자"
 
 #. Key:	TZLLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLF"
 msgid "力气较小"
-msgstr "약화"
+msgstr "비실함"
 
 #. Key:	TZLLZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLLZ"
 msgid "力大无穷"
-msgstr "무한한 힘"
+msgstr "장사"
 
 #. Key:	TZNLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11820,14 +11820,14 @@ msgstr "약한 체력"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZNLZ"
 msgid "耐力极好"
-msgstr "생존 전문가"
+msgstr "강한 체력"
 
 #. Key:	TZQSF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZQSF"
 msgid "大胃王"
-msgstr "큰 위 왕"
+msgstr "대식가"
 
 #. Key:	TZQSZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11841,49 +11841,49 @@ msgstr ""
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXF"
 msgid "学习困难症"
-msgstr "학습곤란증"
+msgstr "공부포기자"
 
 #. Key:	TZRAXXZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZRAXXZ"
 msgid "热爱学习"
-msgstr "학습전문가"
+msgstr "공부벌레"
 
 #. Key:	TZSDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDF"
 msgid "不太灵活"
-msgstr "모래주머니"
+msgstr "거북이"
 
 #. Key:	TZSDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDZ"
 msgid "敏捷如兔"
-msgstr "더빠른 질주"
+msgstr "토끼"
 
 #. Key:	TZSMF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMF"
 msgid "生命脆弱"
-msgstr "몸이 약하다."
+msgstr "약골"
 
 #. Key:	TZSMZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSMZ"
 msgid "生命强悍"
-msgstr "몸이 강하다"
+msgstr "강골"
 
 #. Key:	TZTJF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZTJF"
 msgid "不喜跑步"
-msgstr "과호흡 질주자"
+msgstr "달리기 초보"
 
 #. Key:	TZTJZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11911,7 +11911,7 @@ msgstr "사냥의 달인"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZWSF"
 msgid "邋遢"
-msgstr "지저분하다"
+msgstr "지저분함"
 
 #. Key:	TZWSZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11953,14 +11953,14 @@ msgstr "자제"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,UI"
 msgid "UI音效"
-msgstr "UI 사운드"
+msgstr "UI 사운드 이펙트"
 
 #. Key:	Use
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "사용"
+msgstr "사용하기"
 
 #. Key:	USE1
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12086,7 +12086,7 @@ msgstr "제약 기계에서 제작"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYZ"
 msgid "在制药桌制作"
-msgstr "약품 테이블에서 제작"
+msgstr "약제 테이블에서 제작"
 
 #. Key:	viralinfection
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12114,7 +12114,7 @@ msgstr "(더러운 물)"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WaterNull"
 msgid "(空)"
-msgstr "(없는)"
+msgstr "(비어있음)"
 
 #. Key:	WaterSource
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12128,7 +12128,7 @@ msgstr "수원"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,WB"
 msgid "握把"
-msgstr "꽉 붙잡음"
+msgstr "잡기"
 
 #. Key:	WDXS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12142,7 +12142,7 @@ msgstr "온도 표시"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WeaponNotUse"
 msgid "当前类型武器已装备满"
-msgstr "해당슬롯의 파츠가 이미 장착되어있습니다."
+msgstr "해당 슬롯의 무기가 이미 장착되어 있습니다."
 
 #. Key:	weidget
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12191,14 +12191,14 @@ msgstr "무기 제조 숙련도"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,wsDetail"
 msgid "卫生\r\n影响丧尸发现几率，影响伤口感染几率，过低影响心情回复"
-msgstr "건강\r\n좀비에게 발각 및 상처 감염 가능성에 영향을 미치며 너무 낮으면 기분 회복에 영향을 미칩니다."
+msgstr "위생\r\n좀비에게 발각 및 상처 감염 가능성에 영향을 미치며, 너무 낮으면 기분 회복에 영향을 미칩니다."
 
 #. Key:	WXL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,WXL"
 msgid "未修理"
-msgstr "수리되지 않은"
+msgstr "수리되지 않음"
 
 #. Key:	WZSL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12303,7 +12303,7 @@ msgstr "사용 가능한 범위"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,xinjian"
 msgid "新建"
-msgstr "새로만들기"
+msgstr "새로 만들기"
 
 #. Key:	XLCG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12394,7 +12394,7 @@ msgstr "사망 후 모든 스킬 초기화"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,YNDSJ"
 msgid "一年的时间"
-msgstr "일년의 시간"
+msgstr "1년"
 
 #. Key:	YX
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
