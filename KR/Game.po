@@ -35,7 +35,7 @@ msgstr "개발"
 #: - Value).DisplayNameMap
 msgctxt ",01471E2242A1A96EA568E09F19D72C20"
 msgid "GuardRail"
-msgstr "난간"
+msgstr "가드레일"
 
 #. Key:	014F3B6240A63915DEDF3CA9D50249E4
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_24.Text
@@ -129,7 +129,7 @@ msgstr "2020/08/02"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock.Text
 msgctxt ",054871D843E0E2B8184EAA9FC13D17B1"
 msgid "建造一个自己的工作台，并在工作台中生产木板"
-msgstr "자신의 작업대를 만들고 작업대에서 판자를 생산하십시오."
+msgstr "자신의 작업대를 만들고, 작업대에서 판자를 생산하십시오."
 
 #. Key:	067D9CDB4FE9E1F850C2E69B23C0B4A7
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JXJGT.WBP_JXJGT_C:WidgetTree.Num.Text
@@ -203,7 +203,7 @@ msgstr "삽질하다"
 #: - Value).DisplayNameMap
 msgctxt ",08932B364A170FBCBE3BC5A1DD392BF1"
 msgid "BuildMaterial"
-msgstr "BuildMaterial"
+msgstr "건설 재료"
 
 #. Key:	089EEA3E46AA1CBAAFBAFFA80CA856BE
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_Key.Default__WBP_Key_C.ShowText
@@ -284,7 +284,7 @@ msgstr "동적 해상도"
 #: /Game/Blueprint/UMG/TimeUI/WBP_Ing.WBP_Ing_C:WidgetTree.TextBlock_1.Text
 msgctxt ",0BA9AD014ECF42063786BC8234484D20"
 msgid "搜索中..."
-msgstr "수색중..."
+msgstr "수색 중..."
 
 #. Key:	0BDFF3E44ADF1D4E97787E869B4DF710
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.FireTIme.Text
@@ -298,7 +298,7 @@ msgstr "굽기 시간: 0"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",0C797E8E40ACBD720B57B4B33B461ADD"
 msgid "疟疾几率"
-msgstr "말라리아에 감염될 확률"
+msgstr "말라리아 감염 확률"
 
 #. Key:	0D2F9EF34F24FE1D4DE8229B65941BC4
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
@@ -320,7 +320,7 @@ msgstr "경직 저항"
 #: [Script Bytecode]
 msgctxt ",0EC8AC2A406B6453ED52418F305B612D"
 msgid "已经有一个相同名字的角色或ID无效"
-msgstr "이미존재하는ID이거나 잘못된ID입니다"
+msgstr "이미 존재하는 ID이거나 잘못된 ID 입니다."
 
 #. Key:	0EE4296D4AE97E2F2B01F4A0EC0AB712
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
@@ -342,7 +342,7 @@ msgstr "870AC 산탄총"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
 msgctxt ",0FC7B32D443EA06EF7F13BB5DC4C9447"
 msgid "房屋的承重是需要梁柱的，你需要先规划梁柱，才可以建造墙体屋顶"
-msgstr "집의 하중을 견디려면 보와 기둥이 필요하며 벽과 지붕을 짓기 전에 보와 기둥을 배치하여야 합니다."
+msgstr "집의 하중을 견디려면 보와 기둥이 필요하며, 벽과 지붕을 짓기 전에 보와 기둥을 배치하여야 합니다."
 
 #. Key:	102D232D42B74EA177476CB075A9B8A8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(22 - Value).DisplayNameMap
@@ -394,7 +394,7 @@ msgstr "루프엔드"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",1213557B462F0178A0FFDBB916902739"
 msgid "时间过去一个小时"
-msgstr "한 시간이 지났다."
+msgstr "한 시간 경과"
 
 #. Key:	124E388D4F52DAC525AAD8B98D669128
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.Gear.Text
@@ -408,7 +408,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Item/Base/Base_Tool.Default__Base_Tool_C.ItemInfo.Description
 msgctxt ",12821CAB41336D8F078E9D8B13F41986"
 msgid "常用于砍伐木头，必要时候页可以用来防身。"
-msgstr "나무를 자를 때 많이 사용되며, 필요할 때 호신용으로도 사용할 수 있습니다."
+msgstr "나무를 자를 때 주로 사용되며, 필요시 호신용으로도 사용할 수 있습니다."
 
 #. Key:	12C0B13F40681758244398A58FCF8834
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 - Value).DisplayNameMap
@@ -424,7 +424,7 @@ msgstr "눈"
 #: Text
 msgctxt ",13214985457425F5E5AE71A38AC18920"
 msgid "加入"
-msgstr "가입하기"
+msgstr "하기"
 
 #. Key:	1382DB5845EF08EFE9234285EB77306A
 #. SourceLocation:	/Game/Blueprint/UMG/ChatSystem/WBP_ChatMessage.WBP_ChatMessage_C:WidgetTree.TextBlock.Text
@@ -453,14 +453,14 @@ msgstr "제약 기계"
 #: /Game/Blueprint/UMG/UIBase/WBP_BookTipButton.Default__WBP_BookTipButton_C.Text
 msgctxt ",147BD87446DA956F29E07B807DB1FEF0"
 msgid "INVENTORY"
-msgstr "목록"
+msgstr "인벤토리"
 
 #. Key:	154ED8D64C85BD6A6CC743B96F98EB2D
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_0.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_0.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",154ED8D64C85BD6A6CC743B96F98EB2D"
 msgid "防御力"
-msgstr "방어"
+msgstr "방어력"
 
 #. Key:	156B0CCB494B40FB415BECB3C72F876F
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/E_BuildType.E_BuildType.DisplayNameMap(5 - Value).DisplayNameMap
@@ -2567,7 +2567,7 @@ msgstr "간단한 부품"
 #: Bytecode]
 msgctxt ",7DACF9794BC2AAAAC48B419D1D4BD315"
 msgid "太潮湿了"
-msgstr "너무 젖어"
+msgstr "너무 눅눅함"
 
 #. Key:	7DAD31A340C24CAF0DFCC18F7FB40DFB
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Weapon/Gun/Accessory/QT/BP_GunAccessory_JJ_QT01.Default__BP_GunAccessory_JJ_QT01_C.ItemInfo.Description
@@ -2657,7 +2657,7 @@ msgstr "위치 재설정"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_3.Text
 msgctxt ",811B025545D9BE8290B8D983D2645CAE"
 msgid "提升枪械技能或安装配件可有效改善后坐力"
-msgstr "총기 기술을 향상시키거나 무기파츠를 장착하면 총의 반동및성능을 효과적으로 향상시킬 수 있습니다."
+msgstr "총기 기술을 향상시키거나 무기 파츠를 장착하면 총의 반동 및 성능을 효과적으로 향상시킬 수 있습니다."
 
 #. Key:	81A960174CE991FE49649189E5DD74B2
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_5.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -2701,11 +2701,11 @@ msgid ""
 "\r\n"
 "感谢！"
 msgstr ""
-"공지:\r\n"
+"알림:\r\n"
 "\r\n"
-"이게임은 최신 UnrealEngine5 엔진을 사용하므로 최상의 게임플레이를 만끽하려면 그래픽 카드 드라이버를 최신 버전으로 업그레이드하세요.\r\n"
+"이 게임은 최신 UnrealEngine5 엔진을 사용하므로 최상의 게임플레이를 만끽하려면 그래픽 카드 드라이버를 최신 버전으로 업그레이드 하셔야 합니다.\r\n"
 "\r\n"
-"그렇지 않으면 일부 그래픽성능에 영향을 끼칠수있습니다 .\r\n"
+"그렇지 않으면 일부 그래픽성능에 영향을 끼칠 수 있습니다 .\r\n"
 "\r\n"
 "감사합니다!"
 
@@ -3212,7 +3212,7 @@ msgstr "돌"
 #: [Script Bytecode]
 msgctxt ",A42B7F1648E577F99CD8BD8A411702B9"
 msgid "全自动"
-msgstr "완전 자동"
+msgstr "풀자동"
 
 #. Key:	A44DFAB2422A13E46691CBA995DFA56F
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_GunMessage.WBP_GunMessage_C:ExecuteUbergraph_WBP_GunMessage [Script Bytecode]
@@ -3265,7 +3265,7 @@ msgstr "일반 목재는 건설, 도구 제작에 사용할 수 있습니다."
 #: /Game/Blueprint/UMG/MainUI/Child/TipPasswordCheck.TipPasswordCheck_C:WidgetTree.EditableTextBox_84.HintText
 msgctxt ",A8ACAAC6459AA81F4C0AD08518C85108"
 msgid "请输入密码"
-msgstr "비밀번호를 입력 해주세요"
+msgstr "비밀번호를 입력해 주세요"
 
 #. Key:	A8E8CFFB476DD19AE2F12BA0D0D8658C
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_77.In Text
@@ -3423,7 +3423,7 @@ msgstr "동물 상태:"
 #: /Game/Blueprint/UMG/Inventory/WBP_Inventory.WBP_Inventory_C:WidgetTree.Image_208.ToolTipText
 msgctxt ",AEA1B6104139B189036877A6A46CDF1D"
 msgid "背包中，按下R旋转物品"
-msgstr "배낭에서 R을 눌러 물건을 회전시킬수있습니다."
+msgstr "배낭에서 R을 눌러 물건을 회전시킬 수 있습니다."
 
 #. Key:	AF045F7342EADDA9857C34B920DD6649
 #. SourceLocation:	/Game/HDCKBuildingSystem/Blueprints/Base/Furniture_Base.Default__Furniture_Base_C.BuildInfo.TipDetail_46_A1C8E90D40029B3CF293E58B080FB02B
@@ -3438,7 +3438,7 @@ msgstr "가구"
 #: - Value).DisplayNameMap
 msgctxt ",AF75A83048C0E517520452859496B929"
 msgid "Build"
-msgstr "짓다"
+msgstr "건설"
 
 #. Key:	B03B93224C4D45A9866F91B301208B92
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_54.In Text
@@ -3492,7 +3492,7 @@ msgstr "자동차 수리 키트"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip9.WBP_TutorialTip9_C:WidgetTree.TextBlock_2.Text
 msgctxt ",B180E35F4A221AECBDE4279275533DD1"
 msgid "注意右上角闪烁的图标，这里是人物状态"
-msgstr "오른쪽 상단 모서리에 깜박이는 아이콘에주의하십시오. 플레이어가 어떤상태인지 확인할수있습니다."
+msgstr "오른쪽 상단 모서리에 깜박이는 아이콘에 주의하십시오. 플레이어가 어떤 상태인지 확인할 수 있습니다."
 
 #. Key:	B22CE20D4E7F232EA78E36BA6EFA3738
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(1 - Value).DisplayNameMap
@@ -5101,7 +5101,7 @@ msgstr "빔(4개의 그리드)"
 #: /Game/LocalizationText/BuildingInfo.BuildingInfo
 msgctxt ",FourHorizontalBeamDetail"
 msgid "长横梁，可以承受重量，是搭建大房子的必备。"
-msgstr "긴 대들보는 무게를 견딜 수 있어 큰 집을 짓는 데 필수적입니다."
+msgstr "긴 대들보는 무게를 견딜 수 있어, 큰 집을 짓는 데 필수적입니다."
 
 #. Key:	GuardRail
 #. SourceLocation:	/Game/LocalizationText/BuildingInfo.BuildingInfo
@@ -8839,7 +8839,7 @@ msgstr "강철 양손 칼"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W38"
 msgid "钢棍"
-msgstr "강철나사가 박힌 배트"
+msgstr "강철나사가 박힌 방망이"
 
 #. Key:	W39
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -9000,7 +9000,7 @@ msgstr "곡괭이"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W9"
 msgid "主要用于打碎石头，必要时候也可以用来防身。"
-msgstr "주로 돌을 부수는 데 사용되며 필요한 경우 호신용으로도 사용할 수 있습니다."
+msgstr "주로 돌을 부수는 데 사용되며, 필요한 경우 호신용으로도 사용할 수 있습니다."
 
 #. Key:	01
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9014,28 +9014,28 @@ msgstr "신선도가 노랗게 변하기 시작하면 섭취 후 말라리아에
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,02"
 msgid "使用钝器击打可摧毁的物体伤害比较高。"
-msgstr "둔기로 파괴 가능한 물체를 타격시 더 많은 피해를 입힙니다."
+msgstr "둔기로 파괴 가능한 물체를 타격시, 더 많은 피해를 입힙니다."
 
 #. Key:	03
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,03"
 msgid "快跑会快速消耗碳水化合物，蛋白质，口渴度。"
-msgstr "달리면 탄수화물, 단백질, 갈증이 빨리소모됩니다."
+msgstr "달리면 탄수화물, 단백질, 갈증이 빠르게 소모됩니다."
 
 #. Key:	04
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,04"
 msgid "体力过低会影响伤害。"
-msgstr "체력이 너무낮을시 받는피해가 증가합니다."
+msgstr "체력이 너무 낮을 시 받는 피해가 증가합니다."
 
 #. Key:	05
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,05"
 msgid "在室内和室外温度会产生变化，一天中最冷的时候在凌晨。"
-msgstr "실내와 실외 온도에 편차가 있으며 하루 중 가장 추운 시간대는 이른 아침입니다."
+msgstr "실내와 실외 온도에 편차가 있으며, 하루 중 가장 추운 시간대는 이른 아침입니다."
 
 #. Key:	06
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9084,21 +9084,21 @@ msgstr "잠긴 캐비닛이나 문은 지렛대로 열 수 있습니다."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "건설 망치로 건축물을 분해시 일부아이템을 돌려받을수있습니다."
+msgstr "건설 망치로 건축물을 분해 시 일부 아이템을 돌려 받을 수 있습니다."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,13"
 msgid "卡住啦！使用退出菜单的脱离卡死功能。"
-msgstr "캐릭터가 갇힐경우 종료메뉴에 있는 이탈기능을이용하여 빠져나올수있습니다."
+msgstr "캐릭터가 갇힐 경우 종료 메뉴에 있는 이탈 기능을 이용하여 빠져 나올 수 있습니다."
 
 #. Key:	14
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,14"
 msgid "人物前方近处有物体的话，可能会导致枪械无法瞄准。"
-msgstr "플레이어 주변에 물체가 너무 가까울시 조준이되지않을수도 있습니다."
+msgstr "플레이어 주변에 물체가 너무 가까울시 조준이 되지 않을 수도 있습니다."
 
 #. Key:	15
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9112,7 +9112,7 @@ msgstr "작업대에서 물품 제작이 완료될 때까지 기다리면 관련
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,16"
 msgid "正在倒下的树十分危险，尽量远离！"
-msgstr "떨어지는 나무는 매우 위험합니다. 멀리 떨어지세요!"
+msgstr "떨어지는 나무는 매우 위험합니다. 멀리 떨어지십!"
 
 #. Key:	17
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -11545,7 +11545,7 @@ msgstr "가르침을 받고싶습니다."
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS13"
 msgid "我这里有些好东西送给你"
-msgstr "당신을 위해 여기에 몇 가지 좋은 물건들이 있습니다"
+msgstr "당신을 위한 몇 가지 좋은 물건들이 있습니다"
 
 #. Key:	SS14
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11919,14 +11919,14 @@ msgstr "락 픽 위치 조정"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLGF"
 msgid "悲观"
-msgstr "비관적인"
+msgstr "비관주의"
 
 #. Key:	TZLGZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZLGZ"
 msgid "乐观"
-msgstr "낙천주의"
+msgstr "낙관주의"
 
 #. Key:	TZLLF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11989,14 +11989,14 @@ msgstr "학습전문가"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDF"
 msgid "不太灵活"
-msgstr "모래주머니"
+msgstr "모래 주머니"
 
 #. Key:	TZSDZ
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,TZSDZ"
 msgid "敏捷如兔"
-msgstr "더빠른 질주"
+msgstr "더 빠른 질주"
 
 #. Key:	TZSMF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -12616,7 +12616,7 @@ msgstr "입"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZW01"
 msgid "影响植物发育，没有水会死亡"
-msgstr "식물 발달에 영향을 미치고 물이 없으면 죽을 것입니다."
+msgstr "식물 발달에 영향을 미치며, 물이 없으면 죽을 것입니다."
 
 #. Key:	ZW02
 #. SourceLocation:	/Game/LocalizationText/UI.UI
